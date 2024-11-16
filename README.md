@@ -73,3 +73,5 @@
 QQ群1：199759395  (满)
 
 QQ群2：1005148851
+
+(隐私政策)(https://github.com/gmshrek/info/blob/master/Privacy.md)
