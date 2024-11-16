@@ -4,6 +4,8 @@
 
 「右键助手」集成了 30 多种常用的小工具，只要轻点您的鼠标右键，就可以激活您想要的各种功能，让您的工作效率大幅度提高。而且还可以根据您的喜好对右键菜单进行个性化设置，无论您是程序员，设计师还是其他职业，只要您是Mac用户，用它就对了！
 
+[下载地址](itms-apps://itunes.apple.com/app/id1555844307?mt=8)
+
 ** 软件的主要功能如下 **
 
 ### 新建文件
@@ -74,4 +76,4 @@ QQ群1：199759395  (满)
 
 QQ群2：1005148851
 
-(隐私政策)(https://github.com/gmshrek/info/blob/master/Privacy.md)
+[隐私政策](https://github.com/gmshrek/info/blob/master/Privacy.md)
